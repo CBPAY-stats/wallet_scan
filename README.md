@@ -11,7 +11,7 @@ Um explorador de transações para a rede XDB Chain que permite buscar e visuali
 
 ## Como usar
 
-1. Acesse o site: [https://cbpay-stats.github.io/xdb_explorer/](https://cbpay-stats.github.io/xdb_explorer/)
+1. Acesse o site: [https://cbpay-stats.github.io/wallet_scan/](https://cbpay-stats.github.io/wallet_scan/)
 2. Digite o endereço da carteira que deseja consultar
 3. Visualize as transações de forma organizada
 
